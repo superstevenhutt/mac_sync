@@ -1,0 +1,6 @@
+brew "duckdb"
+brew "faiss"
+brew "openjdk@17"
+brew "sqlite"
+brew "tmux"
+brew "trino"
